@@ -1,0 +1,202 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&family=Great+Vibes&family=Abril+Fatface&display=swap');
+@import url(https://db.onlinewebfonts.com/c/2aea0ac500c896188f9ad191c231029c?family=Orpheus+Pro);
+
+.Page-Navbar {
+    background-image: linear-gradient(#fdf0e6, #ffffff00);
+    height: 20vh;
+    width: 100%;
+    padding: 20px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.background-color {
+    background-image: url("https://res.cloudinary.com/dm4jytitp/image/upload/v1720613825/jonathan-borba-LLBLQAbzfpw-unsplash_kddv8l.jpg");
+    background-size: cover;
+    filter: brightness(100%);
+    background-position: center;
+    height: 100vh;
+    width: 100%;
+}
+
+.Logo-Style {
+    height: 35px;
+}
+
+.Whenandwhere {
+    font-family: "Open Sans";
+    font-size: 20px;
+    font-weight: 500;
+    color: #000;
+    text-decoration: none;
+}
+
+.couple {
+    font-family: "Great Vibes", cursive;
+    font-weight: 500;
+    font-size: 31px;
+    color: #f08e80;
+    filter: brightness(100%);
+    font-style: normal;
+}
+
+.couplenames {
+    font-family: "Great Vibes", cursive;
+    font-weight: 500;
+    font-size: 100px;
+    color: #f08e80;
+    filter: brightness(100%);
+    font-style: normal;
+}
+
+.Button-style {
+    font-family: "Open Sans";
+    height: 55px;
+    width: 110px;
+    border-width: 0px;
+    color: #fff;
+    background-color: #f08e80;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.date {
+    font-family: "Great Vibes", cursive;
+    font-weight: 400;
+    font-style: normal;
+    color: #f08e80;
+    font-size: 25px;
+}
+
+.background1 {
+    background-color: #fff;
+    width: 100%;
+}
+
+.s2-p {
+    font-family: "Open Sans";
+    font-size: 16px;
+    font-weight: 500;
+    color: #00000;
+    line-height: 29px;
+}
+
+.bg-s2 {
+    background-color: transparent;
+    width: 700px;
+}
+
+.s2-passage {
+    /* font-family: "Abril Fatface", serif; */
+    font-family: "Orpheus Pro";
+    font-weight: 400;
+    font-style: normal;
+    color: #f08e80;
+    font-size: 30px;
+}
+
+.s2-passage2 {
+    font-family: "Open Sans";
+    font-size: 16px;
+    font-weight: 500;
+    color: #00000;
+    line-height: 29px;
+}
+
+.background2 {
+    background-color: #fdf0e6;
+    width: 100%;
+    height: 350px;
+}
+
+.s3-head {
+    /* font-family: "Abril Fatface", serif; */
+    font-family: "Orpheus Pro";
+    font-weight: 400;
+    font-style: normal;
+    color: #f08e80;
+    font-size: 40px;
+}
+
+.Card1 {
+    background-color: transparent;
+    height: 200px;
+    margin-top: 20px;
+    width: 50%;
+}
+
+.s4-passage2 {
+    font-family: "Orpheus Pro";
+    font-weight: 400;
+    font-style: normal;
+    color: #f08e80;
+    font-size: 20px;
+}
+
+.s5-head {
+    width: 100%;
+    padding-top: 20px;
+}
+
+.s3-head-child {
+    font-family: "Orpheus Pro";
+    font-weight: 400;
+    color: #f08e80;
+    font-size: 44px;
+    margin-left: 20%;
+}
+
+.s5-passage-head {
+    padding-top: 140px;
+}
+
+.background3 {
+    background-color: #fdf0e6;
+    width: 100%;
+    height: 350px;
+    gap: 5%;
+}
+
+.Card3 {
+    background-color: transparent;
+    height: 200px;
+    width: 100%;
+}
+
+.Card4 {
+    height: 200px;
+    width: 80%;
+}
+
+.Whenandwhere-bride {
+    font-size: 18px;
+}
+
+.Icons {
+    font-size: 35px;
+    color: #f08e80;
+    padding-left: 20px;
+}
+
+.s7-Head {
+    font-size: 65px;
+}
+
+.s7-Buttonstyle {
+    width: 250px;
+}
+
+.Madeby {
+    font-family: "roboto";
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.background4 {
+    background-color: #f08e80;
+    width: 100%;
+}
+
+.Futter {
+    font-size: 20px;
+}
